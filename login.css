@@ -11,7 +11,7 @@ li {
 
 input {
 	background-color: lightgreen;
-	border: none;
+	border: lightblue;
 	border-radius: 2px;
 	text-align: left;
 	color: white;
@@ -40,7 +40,7 @@ h1{
 .submit{
 	background-color: transparent;
 	color: black;
-	border: 1px solid black;
+	border: 1px solid lightblue;
 	width: 50%;
 	font-family: sans-selif;
 	font-size: 18px;
@@ -51,7 +51,7 @@ h1{
 .submit.hover {
 	background-color: #F07334;
 	color: black;
-	border: 1px solid black;
+	border: 1px solid lightblue;
 	font-family: sans-serif;
 	font-size: 12px;
 }
